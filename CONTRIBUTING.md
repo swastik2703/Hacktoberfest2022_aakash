@@ -155,3 +155,10 @@ Name: Bhavesh Krishan Garg<br>
 Institution/Company: Manav Rachna University<br>
 Github Username: bhaveshgarg2000<br>
 -----
+
+-----
+
+Name: Swastik Vasistha<br>
+Institution/Company: Manav Rachna University<br>
+Github Username: swastik2703<br>
+-----
